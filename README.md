@@ -35,3 +35,5 @@ Para Mais Acessar https://vitejs.dev/
   npm run dev
 ```
 
+![Team](https://user-images.githubusercontent.com/97196276/208280327-b2434a7b-9115-498b-ade0-ef03c527b263.png)
+![Home](https://user-images.githubusercontent.com/97196276/208280330-84bc195e-1dd0-44d2-bd7b-4dfaa55d06c5.png)
